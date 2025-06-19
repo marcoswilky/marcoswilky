@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hi, I'm Marcos Wilky
 
-<!--
-**marcoswilky/marcoswilky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Administration graduate with solid experience in management, marketing, and renewable energy projects. As co-founder of Eitech Solar, I led photovoltaic initiatives, client engagement, and strategic planning for over 5 years.
 
-Here are some ideas to get you started:
+🔭 Currently transitioning into the tech field, I'm pursuing an MBA in Data Science and Analytics at Unijorge.  
+🧠 Passionate about using data to solve real-world problems and drive innovation.  
+💻 I work with Python, SQL, Power BI, and tools like Pandas, NumPy, Matplotlib, and PyTorch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 I enjoy combining business insight with data to build smart solutions.  
+🌱 Currently learning advanced data modeling, machine learning, and cloud technologies.  
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/marcoswilky/)
+
+---
+
+🛠 **Tech Stack & Tools**  
+`Python` `Pandas` `NumPy` `SQL` `Power BI` `MySQL` `PyTorch` `Matplotlib` `Google Cloud`
+
