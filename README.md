@@ -13,5 +13,5 @@ I'm a Business Administration graduate with solid experience in management, mark
 ---
 
 🛠 **Tech Stack & Tools**  
-`Python` `Pandas` `NumPy` `SQL` `Power BI` `MySQL` `PyTorch` `Matplotlib` `Google Cloud`
+`Python` `ETL` `Pandas` `NumPy` `SQL` `Power BI` `MySQL` `PyTorch` `Matplotlib` `Google Cloud`
 
